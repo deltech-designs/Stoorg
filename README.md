@@ -1,0 +1,2 @@
+# Stoorg
+Static Website
